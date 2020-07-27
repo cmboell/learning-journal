@@ -10,10 +10,10 @@
 
 Markdown is a verily easy to learn. However, it does take a little bit of practice and memorization skills. Github is the perfect place to learn how to use markdown. You just need to start a new repository. Remember that when a file is written with markdown it will end in **.md**.
 
-##Github 
+## Github 
 Github is a good place to practice with markdown. It is a a good platform to host, store and share code. You can also review other developers code as well. You can store and create code using files called repositories. You can use github to convert your markdown code into webpages. 
 
-##Why Use Markdown
+## Why Use Markdown
 - Markdown is a fun and simple way to write code and build websites
 - Easier to learn than most other web-based languages
 -Can work seamlessly with other coding languages
