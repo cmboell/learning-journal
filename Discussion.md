@@ -16,8 +16,8 @@ Github is a good place to practice with markdown. It is a a good platform to hos
 ## Why Use Markdown
 - Markdown is a fun and simple way to write code and build websites
 - Easier to learn than most other web-based languages
--Can work seamlessly with other coding languages
--Good for beginners
+- Can work seamlessly with other coding languages
+- Good for beginners
 
 
 [Return to main page](/README.md)
