@@ -1,4 +1,4 @@
-# Learning Markdown
+# Learning and Understanding Markdown
 
 ## What is Markdown?
 *Markdown* is a lightweight markup language for generating html files. It uses textual symbols to indicate structure of a page. It is a simple and easy way to code. Markdown is written in plain text, so it is easy to read because it uses real words and characters. Markdown **is not** written like you would write a Word Doc, but it is similar. Instead of using buttons at the top of the Word Doc, you use symbols to tell the code on what effects to create.
