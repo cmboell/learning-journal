@@ -7,7 +7,9 @@ The text editor has to be one of the most important tools you can use as a web d
 - a nice variety of themes (will allow you to do various things such as change color of background, series of color in your text, etc.)
 - the ability to choose from a healthy selection of extensions available when you need them
 *There area many text editors to choose from*
+
 **The Difference Between Text Editor And IDE**
+
 A *text editor* kind of gives away what it does in the title—it edits text. It also manages text, and manages files. 
 It also manages text, and manages files. 
 An *IDE (Integrated Development Environment)* is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
