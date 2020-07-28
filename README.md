@@ -10,4 +10,4 @@
 Table of Contents
 - [Mark Down Examples for class One -102](/MarkdownExamples.md)
 - [Read and Discuss class One -102](/Discussion.md)
-- [Mark Down for class Three -102](/MarkdownExamples.md)
+- [Read and Discuss class Two -102](/Discussion2.md)
