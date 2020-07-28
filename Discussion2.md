@@ -59,3 +59,4 @@ This one can sometimes be hard to get your head around but as you work through t
 - file.txt - a plain text file.
 - file.png, file.gif, file.jpg - an image.
 
+[Back To Home](/README.md)
