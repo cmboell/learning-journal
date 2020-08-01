@@ -52,7 +52,7 @@ File has been changed but not committed to the database
 
 Flagged a file’s changed version to be committed in the next snapshot
 
-## Clone a respitory
+## Clone a Repository
 
 Go to the GitHub repository  you would like to clone. Click on the code button and copy the link for your repository. Open up the terminal on your computer. Navigate to where you would like to save your respitory on your computer. Use git clone command to clone the repository to your computer.
 
