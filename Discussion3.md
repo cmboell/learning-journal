@@ -55,6 +55,25 @@ Flagged a file’s changed version to be committed in the next snapshot
 
 Go to the GitHub repository  you would like to clone. Click on the code button and copy the link for your repository. Open up the terminal on your computer. Navigate to where you would like to save your respitory on your computer. Use git clone command to clone the repository to your computer.
 
-Here is what it can look like:
+Here is what it can look like when you clone to your computer:
 
+cmboe$ pwd
+/mnt/c/Users/cmboe
+cmboe$ cd desktop
+desktop$ cd projects
+projects$ git clone https://github.com/cmboell/learning-journal.git
+Cloning into 'learning-journal'...
+remote: Enumerating objects: 100, done.
+remote: Counting objects: 100% (100/100), done.
+remote: Compressing objects: 100% (91/91), done.
+remote: Total 100 (delta 44), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (100/100), 26.45 KiB | 139.00 KiB/s, done.
+Resolving deltas: 100% (44/44), done.
+projects$ ls
+hello-world  learning-journal
+projects$ cd learning-journal
+learning-journal[master]$ ls
+Discussion.md  Discussion2.md  Discussion3.md  LICENSE  MarkdownExamples.md  README.md  _config.yml  growthmindset.md
 
+**To read more visit:**https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
+[Back To Home Page](/README.md)
