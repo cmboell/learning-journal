@@ -9,7 +9,7 @@ Thanks for checking out my learning journal
 
 - *Here is an example of a table of contents for a learning journal.*
 
-I am currently going to school for Computer Languages. I live in Carroll,IA.
+
 
 
 Table of Contents
