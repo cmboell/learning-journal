@@ -4,6 +4,8 @@
 
 **Hi, my name is Colby**
 
+I am currently going to school for Computer Languages. I live in Carroll,IA.
+
 
 - Here is an example of a table of contents for a learning journal. 
 
