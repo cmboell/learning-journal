@@ -3,8 +3,10 @@
 ## 102-Learning journal
 
 **Hi, my name is Colby**
+
 I am currently in school for Computer languages. I live in Carroll, Ia.
 Thanks for checking out my learning journal
+
 - *Here is an example of a table of contents for a learning journal.*
 
 I am currently going to school for Computer Languages. I live in Carroll,IA.
