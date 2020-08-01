@@ -1,6 +1,6 @@
 # Revisions and The Cloud
 
-**You can work on your repositories you can use your terminal on your computer and make updates and changes directly from it to the website. You do this by copying your link and putting into your terminal to create a clone directly to your desktop. From here you can work on and update your code, then have it update to github.**
+You can work on your repositories you can use your terminal on your computer and make updates and changes directly from it to the website. You do this by copying your link and putting into your terminal to create a clone directly to your desktop. From here you can work on and update your code, then have it update to github.
 
 ## Version Control
 
