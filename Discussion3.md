@@ -86,5 +86,16 @@ learning-journal[master]$ ls
 
 Discussion.md  Discussion2.md  Discussion3.md  LICENSE  MarkdownExamples.md  README.md  _config.yml  growthmindset.md
 
+Now that you have it downloaded to your computer you can use the code . command to open up and make changes and modify your repository. After that you can save and update the changes you made. Make sure to document your changes within the terminal. Here are some helpful commands:
+
+git status (check the status of the repository and show the changes that have been made)
+
+git add (add the changes you made to your repository)
+
+git commit -m 'add an explanation of the changes' (explains what you have changed)
+
+git push origin master (shares changes you made with GitHub)
+
+
 **To read more visit:**https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
 [Back To Home Page](/README.md)
