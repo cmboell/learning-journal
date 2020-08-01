@@ -22,3 +22,39 @@ To prevent this type of catastrophic loss, a DVCS allows clients to create mirro
 **Snapshots**
 
 Git is a DVCS that stores data in a file system made up of snapshots. Every time you make and save a new version of your project (called a commit) Git creates a snapshot of the file and stores it for reference. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+
+**Local Operations**
+
+Git mostly relies on local operations because most necessary information can be found in local resources. This allows for process expediency because a project’s history resides on the local disk, eliminating the need to fetch history information from the server, and allowing one to continue work on a project even when not online or on a VPN.
+
+**Tracking Changes**
+
+Every single change applied to any file or directory is tracked by Git.
+
+**Loss of Data**
+
+Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
+
+**States**
+
+Files in Git reside in three main stages:
+
+*Commited*
+
+Data is securely stored in a local database
+
+*Modified*
+
+File has been changed but not committed to the database
+
+*Staged*
+
+Flagged a file’s changed version to be committed in the next snapshot
+
+## Clone a respitory
+
+Go to the GitHub repository  you would like to clone. Click on the code button and copy the link for your repository. Open up the terminal on your computer. Navigate to where you would like to save your respitory on your computer. Use git clone command to clone the repository to your computer.
+
+Here is what it can look like:
+
+
