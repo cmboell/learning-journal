@@ -12,9 +12,10 @@ Thanks for checking out my learning journal
 
 
 
-Table of Contents
+Table of Contents:
 - [Mark Down Examples for class One -102](/MarkdownExamples.md)
 - [Growth Mindset for class One -102](/growthmindset.md)
 - [Read and Discuss class One -102](/Discussion.md)
 - [Read and Discuss class Two -102](/Discussion2.md)
 - [Revisions and The Cloud class Three -102](/Discussion3.md)
+- [Structure Webpages with HTML class Four -102](/Structure_Webpages_With_HTML.md)
