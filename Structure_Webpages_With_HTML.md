@@ -40,3 +40,4 @@ The `<span>` element acts like an inline equivalent of the `<div>` element. It i
 
 Escape characters are characters that we may want to include on our webages. They need special code to render correctly on the webpage. Such as `< and >`. The special code for these are `&lt;` and `&gt;`. You can put a  &copy; copyright symbol by using `&copy;`. &cent; can be displayed by using `&cent;`. &trade; to display a trademark you simply use `&trade;`. Those are just a few examples, there are more.
 
+[Back To Homepage](/README.md)
