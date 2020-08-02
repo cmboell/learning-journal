@@ -1,1 +1,16 @@
-hhhh
+# Structure Webpages with HTML
+
+## HTML & CSS: Design and build websites by Jon Duckett
+
+### Chapter 18: Process and Design
+It is a good idea to plan out your process and design. Before we begin to code and design a website we need to figure out who are audience is. Who are we building the website for. We need to determine why people would be visiting the websites and what there motivation and goal is for doing so. You need to know the information they are needing and also how often they might visit. It is a good idea to create a diagram of the pages that will be used to structure your site. This is known as a **site map** and will show how pages can be grouped.To help you decide what information should go on each page, you can use a technique called **card sorting**. Another techinque is to use wireframing. A **wireframe** is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require. This will help make it easier for the visitor to navigate and find what they are looking for. By using the design theory techniques, it will help make the presentation, navigation, and look more appealing to the customer. Using visual hierachy techniques can also help the navigation of your site easier as well.
+
+### Chapter 1: Structure
+Structure is very important when designing websites. It is important in helping readers understand the messages you're trying to convey and to navigate around the document. By using HTML elements you can create containers for your content and setup the structure of a website. There are many HTML elements you can learn. HTML uses these elements to describe the structure of your webpage. Tags act like containers. They tell you something about the information that lies between their opening and closing tags. Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
+
+### Chapter 17: HTML5 Layout
+HTML5 is introducing a new set of elements that help define the structure of a page. HTML5 makes it easier to structure your page by using elements such as header, footer, section, article, aside, nav, main, etc. Before this web developers had to used deeply nested sets of div elements to help structure. These new elements work the same as a div element, but give better understanding to the content you nest inside of them. These new elements provide clearer code. Older browsers that do understand HTML5 need to which elements are block-level elements. For older Internet Explorer versions, in order to be able to have HTML5 work extra JavaScript may be needed.
+
+### Chapter 8: Extra Markup
+> **!DOCTYPE**  Each web page should begin with a DOCTYPE declaration to tell the browser which version of HTML the page is using.
+> **<!--Comment Goes Here-->** Is a way to leave comments in your code. The content in here will not show up on the page.
