@@ -6,13 +6,14 @@ HTML flows within invisible boxes, whether they be block or inline elements. CSS
 
 'h1{
     font-size: 10px;
+    
     color: #000000;
 }'
 
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration. In the above example h1 would be the selector and font-size would be a declaration.
 
 CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon. In the above example color would be a property and #000000 would be the value.
-[Back To Home](/README.md)
+
 
 #### Different Types of CSS
 You can use CSS in three different ways: Externally, Internally, and Embedded
@@ -46,6 +47,7 @@ There are multiple ways you can add and specify color using CSS:
 
 You can use colors to change text, background, and borders. Using a color picker can help you find the color you are looking for. There are 100 predefined color names. Using RGB or Hexadecimal values can broaden your color range (16 million color combonations.) By using HSL value you can control the hue, saturation, and lighness of the colors. When choosing colors for your webpage it is important to understand the flow of your color scheme. Your webpage should be readable. Using light background with dark text is a good practice. A good color scheme for your webpage should make it easy to read and accessable for everyone who visits. 
 
+[Back To Home](/README.md)
 
 
 
