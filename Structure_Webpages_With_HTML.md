@@ -1,5 +1,6 @@
 # Structure Webpages with HTML
-
+**HTML(Hypertext Markup Language)** is a programming language used to define the structure of a webpages content. Most standard HTML elements consist of an opening and closing tag. Between the tags lies the content that we add.
+Attributes can be added to opening HTML tags to provide additional information about the element.
 ## HTML & CSS: Design and build websites by Jon Duckett
 
 ### Chapter 18: Process and Design
