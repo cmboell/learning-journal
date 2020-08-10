@@ -21,3 +21,4 @@ Table of Contents:
 - [Structure Webpages with HTML class Four -102](/Structure_Webpages_With_HTML.md)
 - [Design Webpages with CSS class Five -102](/Design_Webpages_With_Css.md)
 - [Dynamic Webpages With Javascript class Six -102](/DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
+- [Computer Architecture and Logic class Six -102](/COMPUTER_ARCHITECTURE_AND_LOGIC.md)
