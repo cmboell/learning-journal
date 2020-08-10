@@ -20,3 +20,4 @@ Table of Contents:
 - [Revisions and The Cloud class Three -102](/Discussion3.md)
 - [Structure Webpages with HTML class Four -102](/Structure_Webpages_With_HTML.md)
 - [Design Webpages with CSS class Five -102](/Design_Webpages_With_Css.md)
+[Dynamic Webpages With Javascript class Six -102](/DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
