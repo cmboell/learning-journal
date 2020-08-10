@@ -34,31 +34,6 @@ Javascript files are generally kept in their own js file & have a .js extention 
 
 `document.write('<h3>' + greeting + '</h3>');`
 
-#### HTML including javascript source:
-
-`<!DOCTYPE html>`
-
-`<html>`
-
-`    <head>`
-
-`        <title>Constructive &amp; Co.</title>`
-
-`        <link rel="stylesheet" href="css/index.css"/>`
-
-`    </head>`
-
-`    <body>`
-
-`        <h1>Constructive &amp; Co.</h1>`
-
-        **`<script src="js/add-content.js"></script>`**
-`        <p>For all orders and inquiries please call`
-`            <em>555-3344</em></p>`
-`    </body>`
-`</html>`
-
-
 Javascript can be added between two script tags, but that could also slow down your page, so that it why is it better to be kept in a separate file that the script tags on your html page just link to.
 
 ### Chapter 2 (pages 53-69)
