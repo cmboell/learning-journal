@@ -22,5 +22,5 @@ Thanks for checking out my learning journal
 - [Design Webpages with CSS class Five -102](/Design_Webpages_With_Css.md)
 - [Dynamic Webpages With Javascript class Six -102](/DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
 - [Computer Architecture and Logic class Six -102](/COMPUTER_ARCHITECTURE_AND_LOGIC.md)
-- [Programming With Javascript class Seven -102](/PROGRAMMING _WITH_JAVASCRIPT.md)
+- [Programming With Javascript class Seven -102](/PROGRAMMING_WITH_JAVASCRIPT.md)
 - [Operators and Loops class Eight -102](/OPERATORS_AND_LOOPS.md)
