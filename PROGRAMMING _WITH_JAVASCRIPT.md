@@ -16,5 +16,5 @@ JavaScript contains the following mathematical operators, which you can use with
 ### Chapter 2 (pages 88-94)
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). In order to us a function you must first declare it by using the **function** keyword and then the function name and then the statement. After you have done that you must call that function to use it using the function name. After declaring a function once you may use it as many times as you would like in the same JavaScript file. Some functions use variables to get information and to process correctly. When using variables you specify the values it should use, those values are called arguements. They can be provided as a simple value or a variable. It is important that you enter your code correctly so that you recieve the correct output when it is ran. 
  
-
+- [Back To Home](/README.md)
 
