@@ -10,6 +10,7 @@ An **expression** evaluates into (results in) a single value. There are two type
 - Expressions that just assign a value to a variable
 - expressions that use two or more values to return a single value.
 Expressions are commonly used to assign values to variables or display results.
+
 Expressions rely on things called **operators**. They allow programmers to create a single value from one or more values.
 
 JavaScript contains the following mathematical operators, which you can use with numbers: `+ - / * ++ -- %` etc. 
